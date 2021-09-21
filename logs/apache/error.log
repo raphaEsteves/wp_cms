@@ -1,0 +1,7 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Sep 16 00:31:01.584862 2021] [mpm_event:notice] [pid 3437:tid 139984130575680] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Sep 16 00:31:01.584994 2021] [core:notice] [pid 3437:tid 139984130575680] AH00094: Command line: '/home/raphael/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/raphael/.config/Local/run/_TbS6pYHX/conf/apache/apache2.conf'
+[Thu Sep 16 01:11:21.387293 2021] [mpm_event:notice] [pid 3437:tid 139984130575680] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 21 17:31:50.967118 2021] [mpm_event:notice] [pid 35255:tid 139995383348544] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Sep 21 17:31:50.967242 2021] [core:notice] [pid 35255:tid 139995383348544] AH00094: Command line: '/home/raphael/.config/Local/lightning-services/apache-2.4.43+6/bin/linux/bin/httpd -D FOREGROUND -f /home/raphael/.config/Local/run/_TbS6pYHX/conf/apache/apache2.conf'

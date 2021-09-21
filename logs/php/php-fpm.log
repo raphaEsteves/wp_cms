@@ -1,0 +1,14 @@
+[16-Sep-2021 00:30:25] NOTICE: fpm is running, pid 2894
+[16-Sep-2021 00:30:25] NOTICE: ready to handle connections
+[16-Sep-2021 00:31:01] ERROR: Another FPM instance seems to already listen on /home/raphael/.config/Local/run/_TbS6pYHX/php/php-fpm.socket
+[16-Sep-2021 00:31:01] ERROR: FPM initialization failed
+[16-Sep-2021 00:31:02] ERROR: Another FPM instance seems to already listen on /home/raphael/.config/Local/run/_TbS6pYHX/php/php-fpm.socket
+[16-Sep-2021 00:31:02] ERROR: FPM initialization failed
+[16-Sep-2021 00:31:02] ERROR: Another FPM instance seems to already listen on /home/raphael/.config/Local/run/_TbS6pYHX/php/php-fpm.socket
+[16-Sep-2021 00:31:02] ERROR: FPM initialization failed
+[16-Sep-2021 00:31:03] ERROR: Another FPM instance seems to already listen on /home/raphael/.config/Local/run/_TbS6pYHX/php/php-fpm.socket
+[16-Sep-2021 00:31:03] ERROR: FPM initialization failed
+[16-Sep-2021 01:11:32] NOTICE: Terminating ...
+[16-Sep-2021 01:11:32] NOTICE: exiting, bye-bye!
+[21-Sep-2021 17:31:50] NOTICE: fpm is running, pid 35249
+[21-Sep-2021 17:31:50] NOTICE: ready to handle connections
